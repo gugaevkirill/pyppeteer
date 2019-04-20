@@ -1,6 +1,10 @@
 History
 =======
 
+## Gugaevkirill 
+
+* Fix #159. Connection closed issue. https://github.com/miyakogi/pyppeteer/issues/159
+
 ## Version 0.0.25 (2018-09-27)
 
 * Fix miss-spelled methods and functions
